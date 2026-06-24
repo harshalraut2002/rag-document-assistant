@@ -1,0 +1,28 @@
+Laerdal Medical — Sample Reference Document (for RAG demo)
+
+About
+Laerdal Medical is a world leader in healthcare education and resuscitation
+training. Its products and services are used by hospitals, ambulance services,
+first aid organizations, and educational institutions around the world. The
+company's stated goal is to help save one million more lives every year by 2030.
+
+Patient Simulators
+Laerdal develops advanced patient simulators used to train healthcare
+professionals. These simulators contain sensors and actuators that mimic human
+physiological responses such as breathing, blinking, talking, and movement,
+allowing realistic, hands-on training without risk to real patients.
+
+CPR Training
+Effective cardiopulmonary resuscitation (CPR) requires chest compressions at a
+rate of 100 to 120 compressions per minute, at a depth of about 5 to 6
+centimeters for an adult. Laerdal manikins provide real-time feedback on
+compression rate and depth so learners can correct their technique.
+
+Quality and Safety
+Laerdal applies rigorous verification and testing to its products. Background
+checks (via Semac) are part of the company's recruitment process, reflecting the
+care taken across a regulated medical-device environment.
+
+Locations
+Laerdal's headquarters are in Stavanger, Norway, with offices and collaboration
+across many countries and cultures.
